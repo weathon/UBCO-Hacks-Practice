@@ -1,0 +1,7 @@
+{
+  "name": "DiscussionBoard",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
